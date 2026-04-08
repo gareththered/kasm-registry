@@ -5,7 +5,7 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Gareth Williams',
-    description: 'The official store for Gareths Kasm workspaces.',
+    description: 'The official store for Gareth`s Kasm workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://gareththered.github.io/',
     contactUrl: 'https://gareththered.github.io/support',
