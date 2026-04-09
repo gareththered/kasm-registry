@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Gareth Williams',
     description: 'The official store for Gareth`s Kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://gareththered.github.io/',
+    listUrl: 'https://gareththered.github.io/kasm-registry',
     contactUrl: 'https://gareththered.github.io/support',
   },
   reactStrictMode: true,
